@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 개발자 이은미s
+## 개발자 이은미
 
 안녕하세요 비전공 18반 이은미입니다.
